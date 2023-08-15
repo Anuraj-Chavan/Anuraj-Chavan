@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuraj Chavan</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 - 🌱 I’m currently learning **JS,Python,Android,React,Flutter**
 
