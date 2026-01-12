@@ -1,83 +1,136 @@
-<h1 align="center">Hi 👋, I'm Anuraj Anil Chavan</h1>
-<h3 align="center">Data Analyst | Data Scientist | GenAI & Automation Engineer</h3>
+# 👋 Hi, I'm Anuraj Anil Chavan  
 
-<ul>
-  <li>🎓 B.E. Computer Engineering (Honors in Data Science) — University of Mumbai</li>
-  <li>📊 Passionate about Data Analytics, AI, and Financial Applications</li>
-  <li>🤖 Experienced in GenAI, NLP, Web Scraping, and Automation Pipelines</li>
-  <li>📈 Interested in Finance, Banking, Market Analytics & Risk Modeling</li>
-</ul>
+🎯 **Data Analyst | Data Scientist | GenAI & Automation Enthusiast**  
+📍 Mumbai, Maharashtra, India  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:anurajexp@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-anurajexp@gmail.com-red?style=flat-square&logo=gmail">
-  </a>
-  <a href="https://github.com/anuraj-chavan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-anuraj--chavan-black?style=flat-square&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anuraj%20Chavan-blue?style=flat-square&logo=linkedin">
-  </a>
-</p>
+I’m a **Data Science & Automation Engineer** with a strong interest in **Finance, Banking, and AI-driven decision systems**. I enjoy building **end-to-end data pipelines**, **predictive models**, and **AI-powered automation tools** that transform raw data into meaningful insights.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+---
 
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
+## 🚀 About Me
 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
+- 🎓 **B.E. in Computer Engineering (Honors in Data Science)** – University of Mumbai  
+- 📊 Passionate about **Data Analytics, Financial Modeling, and Machine Learning**
+- 🤖 Hands-on experience with **GenAI, Web Scraping, NLP, and Automation**
+- 📈 Interested in applying data science to **capital markets, risk analysis & investments**
+- 🌱 Constantly learning and exploring cutting-edge AI technologies
 
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  </a>
+---
 
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  </a>
+## 🛠️ Tech Stack & Skills
 
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  </a>
+### 👨‍💻 Programming Languages
+- Python 🐍
+- SQL
+- C++
 
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40"/>
-  </a>
+### 📊 Data Science & Analytics
+- Pandas, NumPy, Matplotlib
+- Scikit-learn
+- Probability & Statistics
+- Feature Engineering & Data Cleaning
 
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-  </a>
+### 🤖 AI / GenAI / NLP
+- Google GenAI (Gemini API)
+- LangChain
+- Hugging Face
+- FAISS (Vector Databases)
+- TextBlob
+- TensorFlow & PyTorch (Basics)
 
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/>
-  </a>
+### 🌐 Web & Automation
+- Requests
+- BeautifulSoup
+- PDFMiner / PyPDF2
+- SMTP Automation
+- Multithreading
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  </a>
+### 📈 BI & Cloud Tools
+- Power BI
+- MS Excel
+- Google Cloud Platform (GCP)
+- AWS (Basics)
 
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-  </a>
+### 🧰 Tools
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
 
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  </a>
+---
 
-</p>
+## 📌 Featured Projects
 
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=anuraj-chavan&show_icons=true&theme=default"
-       alt="anuraj-chavan stats" />
-</p>
+### 🔹 Automated Financial Regulatory Content Extractor & Summarizer
+**Tech:** Python, BeautifulSoup, PDFMiner, Google GenAI, TextBlob, SMTP  
 
-<p>
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=anuraj-chavan"
-       alt="anuraj-chavan streak" />
-</p>
+- Automated scraping of regulatory documents from **SEBI, RBI, IFSCA**
+- Extracted & cleaned PDF content
+- Generated **AI-powered summaries**
+- Delivered daily automated email reports
+- Reduced manual monitoring workload significantly
+
+---
+
+### 🔹 Document Dialogue (RAG-based AI App)
+**Tech:** Python, LangChain, FAISS, Gemini API, Streamlit  
+
+- Interactive chat with PDF documents
+- AI-powered summarization & translation
+- Text-to-audio conversion
+- Efficient document chunking & retrieval
+- Built using **Retrieval-Augmented Generation (RAG)**
+
+---
+
+### 🔹 Face Recognition Attendance Management System
+**Tech:** Python, OpenCV, Dlib, face_recognition  
+
+- Real-time face recognition-based attendance
+- Automatic Excel updates
+- Attendance percentage calculation
+- User-friendly GUI
+
+---
+
+### 🔹 Data Analytics Dashboards (Power BI)
+
+- Sales & profit analysis
+- KPI tracking
+- Shipping & discount trend analysis
+- Data-driven business insights
+
+---
+
+## 📜 Certifications
+
+- Google Cloud Study Jam  
+- Python for Data Science – IIT Madras  
+- SQL Intermediate – HackerRank  
+- Data Analytics – Godrej  
+- Software Engineering Virtual Experience Program  
+
+---
+
+## 🤝 Experience
+
+- **GenAI Intern** – MCQUBE-SCYMES  
+- **Advanced Data Analytics Intern** – EY-GDS  
+- **Placement Coordinator** – Training & Placement Department  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/your-link  
+- 🧑‍💻 **GitHub:** https://github.com/your-username  
+- 📧 **Email:** anurajexp@gmail.com  
+
+---
+
+## ⭐ GitHub Goals
+
+- Build production-ready **AI & Data Science projects**
+- Contribute to **open-source**
+- Apply data-driven solutions to **finance & real-world problems**
+- Grow as a **Financial Data Scientist / Quant / AI Engineer**
