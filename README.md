@@ -122,8 +122,8 @@ I’m a **Data Science & Automation Engineer** with a strong interest in **Finan
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/your-link  
-- 🧑‍💻 **GitHub:** https://github.com/your-username  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/anurajac/  
+- 🧑‍💻 **GitHub:** https://github.com/Anuraj-Chavan  
 - 📧 **Email:** anurajexp@gmail.com  
 
 ---
